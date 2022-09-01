@@ -60,7 +60,7 @@ function curl() {
 export -f curl
 
 function poetry() {
-    echo "       >>> mocked poetry call <<<"
+    echo ">>> mocked poetry call <<<"
 }
 
 export -f poetry

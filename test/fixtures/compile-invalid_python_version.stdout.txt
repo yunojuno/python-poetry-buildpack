@@ -4,6 +4,6 @@
        >>> mocked curl call <<<
 -----> Adding poetry to the PATH
 -----> Export requirements.txt from Poetry
-       >>> mocked poetry call <<<
+>>> mocked poetry call <<<
 -----> Export Python version from Poetry to Heroku runtime.txt file
 -----> Read Python version from poetry.lock

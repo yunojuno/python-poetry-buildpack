@@ -4,7 +4,7 @@
        >>> mocked curl call <<<
 -----> Adding poetry to the PATH
 -----> Export requirements.txt from Poetry
-       >>> mocked poetry call <<<
+>>> mocked poetry call <<<
 -----> Export Python version from Poetry to Heroku runtime.txt file
 -----> Force Python version to 3.4.5, because PYTHON_RUNTIME_VERSION is set!
 -----> Write 3.4.5 into runtime.txt
